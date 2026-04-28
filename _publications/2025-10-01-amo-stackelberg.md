@@ -4,5 +4,6 @@ collection: publications
 permalink: /publication/2025-amo-stackelberg
 date: 2025-10-01
 venue: 'Applied Mathematics & Optimization'
-citation: '<strong>Ding, K.</strong>; Lv, S.; Xiong, J.; Zhang, X. (2025). &quot;Infinite Horizon Linear-Quadratic Leader-Follower Stochastic Differential Games for Regime Switching Diffusions.&quot; <i>Applied Mathematics &amp; Optimization</i>, 92(2).'
+paperurl: 'https://link.springer.com/article/10.1007/s00245-025-10305-y'
+citation: '<strong>Ding, K.</strong>; Lv, S.; Xiong, J.; Zhang, X. (2025). "Infinite Horizon Linear-Quadratic Leader-Follower Stochastic Differential Games for Regime Switching Diffusions." <i>Applied Mathematics &amp; Optimization</i>, 92, Paper No. 25.'
 ---
