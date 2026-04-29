@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0008-7732-4595"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -80,7 +80,8 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # Username
+  bilibili         : "https://space.bilibili.com/230308420?spm_id_from=333.1007.0.0"
+  zhihu            : "xianyu-86"
 
 # Publication Category - The following the list of publication categories and their headings
 #publication_category:
