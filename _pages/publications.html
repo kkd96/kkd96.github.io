@@ -40,9 +40,13 @@ author_profile: true
       <li class="publication-item">
         <span class="publication-authors">{{ paper.authors }}</span>
         <span>({{ paper.year }}).</span>
-        <a class="publication-title" href="{{ paper.paperurl }}">{{ paper.title }}</a>.
+        {% if paper.paperurl %}
+          <a class="publication-title" href="{{ paper.paperurl }}">{{ paper.title }}</a>.
+        {% else %}
+          <span class="publication-title">{{ paper.title }}</span>.
+        {% endif %}
         {% if paper.status %}<em>{{ paper.status }}</em>{% endif %}
-        {% if paper.link_label %}
+        {% if paper.paperurl and paper.link_label %}
           <a class="publication-link" href="{{ paper.paperurl }}">[{{ paper.link_label }}]</a>
         {% endif %}
       </li>
