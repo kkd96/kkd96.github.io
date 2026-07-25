@@ -14,7 +14,7 @@ author_profile: true
 
 {% assign published_papers = site.publications | where: "category", "published" | sort: "date" | reverse %}
 
-{% assign preprints = site.publications | where: "category", "preprint" | sort: "date" | reverse %}
+{% assign preprints = site.publications | where: "category", "preprint" | sort: "display_order" %}
 
 <section class="publication-section" aria-labelledby="published-articles">
   <h2 id="published-articles">Published Articles</h2>
@@ -25,8 +25,8 @@ author_profile: true
         <span>({{ paper.year }}).</span>
         <a class="publication-title" href="{{ paper.paperurl }}">{{ paper.title }}</a>.
         <em>{{ paper.venue }}</em>{% if paper.details %}, {{ paper.details }}{% endif %}.
-        {% if paper.link_label %}
-          <a class="publication-link" href="{{ paper.paperurl }}">[{{ paper.link_label }}]</a>
+        {% if paper.arxivurl %}
+          <a class="publication-link" href="{{ paper.arxivurl }}">[arXiv]</a>
         {% endif %}
       </li>
     {% endfor %}

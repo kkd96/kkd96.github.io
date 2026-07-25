@@ -5,6 +5,7 @@ permalink: /publication/2026-arxiv-slq-poisson-jumps
 date: 2026-05-13
 year: 2026
 category: preprint
+display_order: 1
 authors: '<strong>Kai Ding</strong>, Jiaqiang Wen, Jie Xiong, &amp; Xin Zhang'
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2605.13204'

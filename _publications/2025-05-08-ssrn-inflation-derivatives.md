@@ -5,6 +5,7 @@ permalink: /publication/2025-ssrn-inflation-derivatives
 date: 2025-05-08
 year: 2025
 category: preprint
+display_order: 6
 authors: '<strong>Kai Ding</strong>, Yang Shen, Jie Xiong, &amp; Xin Zhang'
 venue: 'SSRN'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5235810'

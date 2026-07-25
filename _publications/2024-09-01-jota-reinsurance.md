@@ -9,6 +9,5 @@ authors: 'Fan Wu, Yang Shen, Xin Zhang, &amp; <strong>Kai Ding</strong>'
 venue: 'Journal of Optimization Theory and Applications'
 details: '201(3), 1229-1255'
 paperurl: 'https://link.springer.com/article/10.1007/s10957-024-02429-y'
-link_label: 'DOI'
 citation: 'Fan Wu, Yang Shen, Xin Zhang, &amp; <strong>Kai Ding</strong> (2024). "Optimal Claim-Dependent Proportional Reinsurance Under a Self-Exciting Claim Model." <i>Journal of Optimization Theory and Applications</i>, 201(3), 1229-1255.'
 ---
