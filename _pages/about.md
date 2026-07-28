@@ -28,7 +28,7 @@ My research focuses on stochastic control theory and its applications in mathema
 
 ### 2026
 
-- Kai Ding; Xun Li; Siyu Lv; Xin Zhang. [An Infinite Horizon Sufficient Stochastic Maximum Principle for Regime-Switching Diffusions and Applications](https://doi.org/10.1007/s10957-026-03010-5). *Journal of Optimization Theory and Applications*, 209(3) (2026), Paper No. 69.
+- Kai Ding; Xun Li; Siyu Lv; Xin Zhang. [An Infinite Horizon Sufficient Stochastic Maximum Principle for Regime-Switching Diffusions and Applications](https://doi.org/10.1007/s10957-026-03010-5). *Journal of Optimization Theory and Applications*, 209 (2026), Paper No. 69.
 
 ### 2025
 
